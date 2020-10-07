@@ -8,7 +8,6 @@ void newAccount();
 void writeFile();
 void viewAccount();
 void output();
-//void searchQuestion();
 void searchNumber();
 void searchName();
 void deposit();
